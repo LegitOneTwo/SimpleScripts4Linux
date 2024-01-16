@@ -1,4 +1,5 @@
 #!/bin/bash
+# requirements: zip
 
 echo "Backing up files..." #send message about starting the process
 
